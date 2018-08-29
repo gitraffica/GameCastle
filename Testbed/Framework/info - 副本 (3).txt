@@ -1,0 +1,5 @@
+static 0 20 80 80 0 pic/sky.bmp
+box 0 -2 40 2 0 3.0 0.3 1 65535
+breakable 20000 300 pic/ground.bmp end 
+polygon 3.0 0.3 0.2 1 65535 4 -3 10 3 10 0 15 -20 15 breakable 5000 100 pic/ground.bmp end
+circle 0 20 2 3 0.3 0.3 1 65535 breakable 3000 100 pic/rj3.bmp pic/rj2.bmp pic/rj.bmp end

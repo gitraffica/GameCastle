@@ -1,0 +1,25 @@
+static 0 20 80 80 0 pic/sky.bmp
+box 0 -2 40 2 0 3 0.3 1 65535
+breakable 100000 1e+006 pic/ground.bmp end
+box -15.8214 3.32143 0.785715 3.25 3 0.4 0.1 1 65535
+breakable 851.191 1000 pic/wood2.bmp pic/wood.bmp end
+box -1.85714 3.35714 0.821429 3.35714 3 0.4 0.1 1 65535
+breakable 919.218 1000 pic/wood2.bmp pic/wood.bmp end
+box -8.96429 8.25 10.2143 1.53571 3 0.4 0.1 1 65535
+breakable 5228.74 1000 pic/wood2.bmp pic/wood.bmp end
+box -8.35714 1.89286 2.67857 1.89286 3 0.4 0.1 1 65535
+breakable 1690.05 1000 pic/wood2.bmp pic/wood.bmp end
+circle -8.10714 5.28571 1.3721 5 0.4 0.03 1 65535
+breakable 5911.53 4000 pic/ground2.bmp pic/ground.bmp end
+box -8.75 11.8214 7.5 2.03571 3 0.4 0.1 1 65535
+breakable 5089.29 1000 pic/wood2.bmp pic/wood.bmp end
+box -8.42857 15.4643 5.10714 1.67857 3 0.4 0.1 1 65535
+breakable 2857.57 1000 pic/wood2.bmp pic/wood.bmp end
+box -8.10714 18.2857 2.92857 1.14286 3 0.4 0.1 1 65535
+breakable 1115.65 1000 pic/wood2.bmp pic/wood.bmp end
+box -7.78571 20.2857 1.10714 0.999999 3 0.4 0.1 1 65535
+breakable 369.047 1000 pic/wood2.bmp pic/wood.bmp end
+box 12.3571 10.7857 0.678572 10.8571 5 0.4 0.03 1 65535
+breakable 29469.4 4000 pic/ground2.bmp pic/ground.bmp end
+box 12.3929 25.25 4.07143 3.75 5 0.4 0.03 1 65535
+breakable 61071.5 4000 pic/ground2.bmp pic/ground.bmp end

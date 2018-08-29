@@ -1,0 +1,6 @@
+raffica¿Ó
+main -10.1523 18.3336 2 2 NONE
+main -40.2873 18.3336 2 2 NONE
+box 18.5583 10.4521 13.8743 35.8046 3 0.4 0.1 1 65535 0
+breakable 1.65587e+06 6000 3 4 pic/wood2.bmp pic/wood.bmp end
+NONE

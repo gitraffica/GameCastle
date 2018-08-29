@@ -1,0 +1,122 @@
+qige
+main 130.041 -35.9823 2 2 NONE
+monitor -83.4972 -35.468 2 2 NONE
+box -77.9919 -32.6095 2.0886 5.37068 3 0.4 0.1 1 65535 1.01216e-05
+breakable 37390.7 6000 3 4 pic/wood2.bmp pic/wood.bmp end
+NONE
+box -42.317 -32.2995 1.64103 5.66906 3 0.4 0.1 1 65535 0.00748221
+breakable 31010.4 6000 3 4 pic/wood2.bmp pic/wood.bmp end
+NONE
+box -11.1651 -32.1618 1.19349 5.81824 3 0.4 0.1 1 65535 -0.000113759
+breakable 23146.6 6000 3 4 pic/wood2.bmp pic/wood.bmp end
+NONE
+box -30.2608 -25.7464 21.6319 0.745928 3 0.4 0.1 1 65535 0.0094718
+breakable 53786.2 6000 3 4 pic/wood2.bmp pic/wood.bmp end
+NONE
+monitor -17.1668 -35.9796 2 2 NONE
+box 51.4575 -5.90603 22.3779 32.0749 9 0.4 0.03 1 65535 0.000125775
+breakable 4.54586e+06 13000 3 4 pic/copper2.bmp pic/copper.bmp end
+NONE
+disjoint 0 0 44.5967 -18.7889 -17.1667 -36.0928 1
+disjoint 0.5 pic/material/rline.png
+R_TRANSPORT
+disjoint 0 0 40.4184 -10.1367 -83.9164 -35.3691 1
+disjoint 0.5 pic/material/rline.png
+R_TRANSPORT
+launcher 56.2504 71.9983 6 2 NONE
+disjoint 0 0 47.8477 14.9275 54.117 71.5893 1
+disjoint 0.5 pic/material/rline.png
+R_TRANSPORT
+disjoint 0 0 61.2741 17.6145 58.2777 71.2186 1
+disjoint 0.5 pic/material/rline.png
+R_TRANSPORT
+disjoint 0 0 69.628 21.4944 59.8167 71.6806 1
+disjoint 0.5 pic/material/rline.png
+R_TRANSPORT
+lamp 69.9201 78.7792 2 2 NONE
+lamp 70.2184 71.9166 2 2 NONE
+lamp 70.5168 65.0541 2 2 NONE
+lamp -49.4284 -19.9817 2 2 NONE
+disjoint 0 0 66.9364 16.1212 71.1136 64.159 1
+disjoint 0.5 pic/material/rline.png
+R_TRANSPORT
+disjoint 0 0 60.9689 15.8228 70.5168 71.0215 1
+disjoint 0.5 pic/material/rline.png
+R_TRANSPORT
+disjoint 0 0 69.9201 12.8391 69.9201 78.1824 1
+disjoint 0.5 pic/material/rline.png
+R_TRANSPORT
+disjoint 0 0 -43.7594 -25.6508 -50.3234 -18.4896 1
+disjoint 0.5 pic/material/rline.png
+R_TRANSPORT
+disjoint 0 0 -83.7413 -35.4966 -49.4285 -20.28 1
+disjoint 0.5 pic/material/rline.png
+R_TRANSPORT
+cap -85.0664 -9.24251 2 2 NONE
+cap -87.1498 30.1447 2 2 NONE
+disjoint 0 0 -84.1693 -10.1357 -82.3749 -34.6018 1
+disjoint 0.5 pic/material/rline.png
+R_TRANSPORT
+disjoint 0 0 -97.3385 -40.271 -87.1949 29.5481 1
+disjoint 0.5 pic/material/steelstick.png
+NONE
+lamp -79.6768 -11.328 2 2 NONE
+lamp -80.1292 10.5926 2 2 NONE
+lamp -82.3588 28.0562 2 2 NONE
+disjoint 0 0 -83.8508 28.9506 -87.4312 30.1448 1
+disjoint 0.5 pic/material/rline.png
+R_TRANSPORT
+disjoint 0 0 -85.9451 -8.94603 -80.5736 -10.1358 1
+disjoint 0.5 pic/material/rline.png
+R_TRANSPORT
+repeater -96.8024 2.1145 2 2 NONE
+disjoint 0 0 -96.2166 1.507 -83.989 -9.24074 1
+disjoint 0.5 pic/material/rline.png
+R_TRANSPORT
+cap -86.7759 10.4269 2 2 NONE
+repeater -96.9472 18.8066 2 2 NONE
+disjoint 0 0 -85.8669 10.1738 -97.2076 3.31554 1
+disjoint 0.5 pic/material/rline.png
+R_TRANSPORT
+disjoint 0 0 -80.4445 11.1041 -85.8669 10.1738 1
+disjoint 0.5 pic/material/rline.png
+R_TRANSPORT
+disjoint 0 0 -97.8437 19.7003 -85.2777 10.1978 1
+disjoint 0.5 pic/material/rline.png
+R_TRANSPORT
+disjoint 0 0 -85.9089 28.3534 -97.8435 19.7003 1
+disjoint 0.5 pic/material/rline.png
+R_TRANSPORT
+disjoint 0 0 -107.39 -42.658 -96.6546 1.20403 1
+disjoint 0.5 pic/material/steelstick.png
+NONE
+disjoint 0 0 -87.1009 -41.1661 -96.9467 17.3147 1
+disjoint 0.5 pic/material/steelstick.png
+NONE
+disjoint 0 0 -69.1986 -41.1661 -81.4318 27.1609 1
+disjoint 0.5 pic/material/steelstick.png
+NONE
+disjoint 0 0 -15.7558 -25.3524 39.1445 -1.18437 1
+disjoint 0.5 pic/material/rline.png
+R_TRANSPORT
+box -4.75496 64.3082 17.3055 12.3824 4 0.1 0.3 1 65535 1.35386e-08
+breakable 14285.6 30 0 0 pic/tnt.png pic/tnt.png end
+tnt
+disjoint 0 0 53.1291 72.5134 -5.65006 71.9166 1
+disjoint 0.5 pic/material/steelstick.png
+NONE
+disjoint 0 0 3.59945 66.2476 56.1128 73.4085 1
+disjoint 0.5 pic/material/steelstick.png
+NONE
+disjoint 0 0 54.0242 71.0215 4.79293 59.385 1
+disjoint 0.5 pic/material/steelstick.png
+NONE
+disjoint 0 0 -0.577754 56.9981 54.9193 71.3199 1
+disjoint 0.5 pic/material/steelstick.png
+NONE
+disjoint 0 0 55.8145 72.8117 -2.36798 64.4573 1
+disjoint 0.5 pic/material/steelstick.png
+NONE
+disjoint 0 0 -9.23054 73.7068 59.3949 71.6183 1
+disjoint 0.5 pic/material/steelstick.png
+NONE

@@ -1,0 +1,343 @@
+qige
+circle -82.0017 -21.9971 12.9989 6 0.01 0.3 1 65535
+breakable 530567 8300 3 4 pic/wheeliron3.bmp pic/wheeliron2.bmp pic/wheeliron.bmp end
+NONE
+circle -107.39 -19.3111 8.65278 6 0.01 0.3 1 65535
+breakable 235094 8300 3 4 pic/wheeliron3.bmp pic/wheeliron2.bmp pic/wheeliron.bmp end
+NONE
+circle -51.6768 -21.9974 12.9989 6 0.01 0.3 1 65535
+breakable 530567 8300 3 4 pic/wheeliron3.bmp pic/wheeliron2.bmp pic/wheeliron.bmp end
+NONE
+circle -21.8003 -21.9961 12.9989 6 0.01 0.3 1 65535
+breakable 530567 8300 3 4 pic/wheeliron3.bmp pic/wheeliron2.bmp pic/wheeliron.bmp end
+NONE
+circle 4.16728 -18.6281 8.65278 6 0.01 0.3 1 65535
+breakable 235094 8300 3 4 pic/wheeliron3.bmp pic/wheeliron2.bmp pic/wheeliron.bmp end
+NONE
+box -118.218 -18.7593 2.0886 8.50358 9 0.4 0.03 1 65535 0.0652181
+breakable 112484 13000 3 4 pic/copper2.bmp pic/copper.bmp end
+NONE
+box 15.534 -17.5699 2.0886 8.50358 9 0.4 0.03 1 65535 -0.0289172
+breakable 112484 13000 3 4 pic/copper2.bmp pic/copper.bmp end
+NONE
+box -107.892 -32.7258 10.2938 1.49186 9 0.4 0.03 1 65535 -0.385626
+breakable 97260.3 13000 3 4 pic/copper2.bmp pic/copper.bmp end
+NONE
+box 4.5849 -32.4441 10.2938 1.49186 9 0.4 0.03 1 65535 0.417821
+breakable 97260.3 13000 3 4 pic/copper2.bmp pic/copper.bmp end
+NONE
+disjoint 0 0 12.6206 -28.8621 15.1216 -24.9293 1
+disjoint 0.5 pic/material/steelstick.png
+NONE
+disjoint 0 0 -116.039 -28.9735 -117.653 -25.1443 1
+disjoint 0.5 pic/material/steelstick.png
+NONE
+disjoint 0 0 -108.749 -19.0988 -119.194 -18.9551 1
+disjoint 0.5 pic/material/steelstick.png
+NONE
+disjoint 0 0 -80.7142 -22.1858 -108.749 -19.0988 1
+disjoint 0.5 pic/material/steelstick.png
+NONE
+disjoint 0 0 -50.5793 -22.8197 -80.7142 -22.1858 1
+disjoint 0.5 pic/material/steelstick.png
+NONE
+disjoint 0 0 -20.7427 -22.671 -50.5793 -22.8197 1
+disjoint 0.5 pic/material/steelstick.png
+NONE
+disjoint 0 0 6.35872 -18.4539 -20.7427 -22.671 1
+disjoint 0.5 pic/material/steelstick.png
+NONE
+disjoint 0 0 15.9324 -17.4901 6.35872 -18.4539 1
+disjoint 0.5 pic/material/steelstick.png
+NONE
+box -51.6453 -7.79728 69.6697 1.19348 9 0.4 0.03 1 65535 2.79308e-05
+breakable 526615 13000 3 4 pic/copper2.bmp pic/copper.bmp end
+NONE
+disjoint 0 0 15.8487 -11.8115 15.0852 -7.99686 1
+disjoint 0.5 pic/material/steelstick.png
+NONE
+disjoint 0 0 -118.339 -12.3335 -118.289 -7.85824 1
+disjoint 0.5 pic/material/steelstick.png
+NONE
+disjoint 0 0 -107.009 -12.8877 -107.547 -8.14403 1
+disjoint 0.5 pic/material/steelstick.png
+NONE
+disjoint 0 0 -82.2452 -13.4846 -82.1846 -7.51743 1
+disjoint 0.5 pic/material/steelstick.png
+NONE
+disjoint 0 0 -51.1275 -12.5517 -51.4525 -7.48121 1
+disjoint 0.5 pic/material/steelstick.png
+NONE
+disjoint 0 0 -21.4299 -13.1116 -21.6148 -7.74444 1
+disjoint 0.5 pic/material/steelstick.png
+NONE
+disjoint 0 0 4.26528 -13.3761 4.64215 -8.01187 1
+disjoint 0.5 pic/material/steelstick.png
+NONE
+box 12.4312 -2.40756 5.37068 4.02801 9 0.4 0.03 1 65535 -0.0248835
+breakable 137010 13000 3 4 pic/copper2.bmp pic/copper.bmp end
+NONE
+box 21.7629 -10.1115 3.72965 8.05603 9 0.4 0.03 1 65535 -0.00546345
+breakable 190292 13000 3 4 pic/copper2.bmp pic/copper.bmp end
+NONE
+box -2.65217 0.586135 9.54789 7.16091 9 0.4 0.03 1 65535 0.00128548
+breakable 433020 13000 3 4 pic/copper2.bmp pic/copper.bmp end
+NONE
+box -23.602 3.11702 11.3381 9.69707 9 0.4 0.03 1 65535 0.000727949
+breakable 696328 13000 3 4 pic/copper2.bmp pic/copper.bmp end
+NONE
+box -61.3984 3.42021 26.4059 9.99544 9 0.4 0.03 1 65535 -0.000123325
+breakable 1.67161e+06 13000 3 4 pic/copper2.bmp pic/copper.bmp end
+NONE
+box -100.704 0.00441022 12.83 6.41499 9 0.4 0.03 1 65535 -0.00204046
+breakable 521259 13000 3 4 pic/copper2.bmp pic/copper.bmp end
+NONE
+box -93.1866 9.73645 5.37069 3.28209 9 0.4 0.03 1 65535 -0.000220145
+breakable 111638 13000 3 4 pic/copper2.bmp pic/copper.bmp end
+NONE
+box -117.138 -2.70336 3.58046 3.87883 9 0.4 0.03 1 65535 -0.00144823
+breakable 87957.2 13000 3 4 pic/copper2.bmp pic/copper.bmp end
+NONE
+box -40.8135 20.1431 28.4945 6.71336 9 0.4 0.03 1 65535 -0.000331984
+breakable 1.21153e+06 13000 3 4 pic/copper2.bmp pic/copper.bmp end
+NONE
+box 16.793 15.4043 29.0912 1.93941 8 0.4 0.03 1 65535 -0.00146955
+breakable 300906 14300 3 4 pic/iron3.bmp pic/iron2.bmp pic/iron.bmp end
+NONE
+disjoint 0 0 -49.6172 8.30969 -47.8542 19.0555 1
+disjoint 0.5 pic/material/steelstick.png
+NONE
+disjoint 0 0 -95.8669 3.33105 -95.2686 9.29896 1
+disjoint 0.5 pic/material/steelstick.png
+NONE
+disjoint 0 0 -99.3777 -2.6781 -114.901 -2.32737 1
+disjoint 0.5 pic/material/steelstick.png
+NONE
+disjoint 0 0 9.76131 -1.491 2.30439 -1.67944 1
+disjoint 0.5 pic/material/steelstick.png
+NONE
+disjoint 0 0 13.3451 -8.23123 22.2705 -8.914 1
+disjoint 0.5 pic/material/steelstick.png
+NONE
+disjoint 0 0 20.7485 -3.84996 13.5978 -3.37035 1
+disjoint 0.5 pic/material/steelstick.png
+NONE
+disjoint 0 0 -19.4997 15.8482 -6.36905 14.9872 1
+disjoint 0.5 pic/material/steelstick.png
+NONE
+disjoint 0 0 -8.45604 16.1833 -14.4399 20.3373 1
+disjoint 0.5 pic/material/steelstick.png
+NONE
+disjoint 0 0 -6.67691 5.43951 -7.85971 15.8838 1
+disjoint 0.5 pic/material/steelstick.png
+NONE
+disjoint 0 0 -32.3157 -6.87536 -22.4882 -1.76626 1
+disjoint 0.5 pic/material/steelstick.png
+NONE
+disjoint 0 0 -62.7457 -8.45416 -64.807 -1.58321 1
+disjoint 0.5 pic/material/steelstick.png
+NONE
+disjoint 0 0 -68.4147 8.55164 -58.6033 22.0039 1
+disjoint 0.5 pic/material/steelstick.png
+NONE
+disjoint 0 0 -9.04088 -7.70528 -9.93225 -1.14014 1
+disjoint 0.5 pic/material/steelstick.png
+NONE
+disjoint 0 0 -80.6932 1.65591 -96.5063 1.53296 1
+disjoint 0.5 pic/material/steelstick.png
+NONE
+disjoint 0 0 -92.052 10.2021 -81.314 10.6055 1
+disjoint 0.5 pic/material/steelstick.png
+NONE
+disjoint 0 0 -90.8586 -7.93731 -90.2129 -0.780562 1
+disjoint 0.5 pic/material/steelstick.png
+NONE
+railgun 50.0589 14.9094 3 3 NONE
+engine -94.6646 -12.3886 2 2 NONE
+engine -64.685 -12.8061 2 2 NONE
+engine -35.4617 -12.1818 2 2 NONE
+engine -6.41084 -12.2556 2 2 NONE
+disjoint 0 0 43.2088 15.59 48.882 15.7958 1
+disjoint 0.5 pic/material/steelstick.png
+NONE
+disjoint 0 0 43.8005 15.282 49.4493 13.9959 1
+disjoint 0.5 pic/material/steelstick.png
+NONE
+disjoint 0 0 -5.91778 -11.5086 -7.03371 -6.86696 1
+disjoint 0.5 pic/material/steelstick.png
+NONE
+disjoint 0 0 -35.7018 -12.3586 -37.0899 -4.5814 1
+disjoint 0.5 pic/material/steelstick.png
+NONE
+disjoint 0 0 -64.6336 -13.1 -64.6264 -6.83414 1
+disjoint 0.5 pic/material/steelstick.png
+NONE
+disjoint 0 0 -95.3849 -11.6945 -95.3293 -6.02567 1
+disjoint 0.5 pic/material/steelstick.png
+NONE
+disjoint 0 0 -89.8015 -14.1558 -94.8432 -12.8385 1
+disjoint 0.5 pic/material/steelstick.png
+NONE
+disjoint 0 0 -95.0237 -12.4574 -104.619 -13.6104 1
+disjoint 0.5 pic/material/steelstick.png
+NONE
+disjoint 0 0 -72.1896 -14.4373 -65.9633 -12.4235 1
+disjoint 0.5 pic/material/steelstick.png
+NONE
+disjoint 0 0 -60.1828 -13.9584 -64.0458 -12.9972 1
+disjoint 0.5 pic/material/steelstick.png
+NONE
+disjoint 0 0 -44.085 -14.6986 -35.2213 -12.005 1
+disjoint 0.5 pic/material/steelstick.png
+NONE
+disjoint 0 0 -29.1282 -14.4529 -36.1824 -12.7123 1
+disjoint 0.5 pic/material/steelstick.png
+NONE
+disjoint 0 0 -14.2462 -15.4967 -5.57911 -13.1621 1
+disjoint 0.5 pic/material/steelstick.png
+NONE
+disjoint 0 0 0.584269 -14.6022 -6.82433 -12.3404 1
+disjoint 0.5 pic/material/steelstick.png
+NONE
+disjoint 0 0 42.7972 16.7901 50.2555 16.6684 1
+disjoint 0.5 pic/material/steelstick.png
+NONE
+disjoint 0 0 42.7534 14.1052 49.8938 12.7951 1
+disjoint 0.5 pic/material/steelstick.png
+NONE
+disjoint 0 0 42.7728 15.2985 50.5294 15.1719 1
+disjoint 0.5 pic/material/steelstick.png
+NONE
+disjoint 0 0 42.7825 15.8952 52.334 16.0376 1
+disjoint 0.5 pic/material/steelstick.png
+NONE
+box -51.3862 -36.4932 45.8 1.49186 6 0.01 0.3 1 65535 5.67053e-08
+breakable 273309 8300 3 4 pic/wheeliron3.bmp pic/wheeliron2.bmp pic/wheeliron.bmp end
+NONE
+disjoint 0 0 -8.56974 -36.7914 -2.89136 -35.8104 1
+disjoint 0.5 pic/material/steelstick.png
+NONE
+disjoint 0 0 -94.2024 -37.0901 -100.497 -37.0628 1
+disjoint 0.5 pic/material/steelstick.png
+NONE
+box 24.6217 -24.3972 7.16091 5.96743 9 0.4 0.03 1 65535 -0.0336639
+breakable 270638 13000 3 4 pic/copper2.bmp pic/copper.bmp end
+NONE
+box 36.7347 -20.9521 9.10033 3.87883 6 1 0.3 1 65535 -1.60351
+breakable 141195 8300 0 0 pic/spine2.png pic/spine.png end
+spine
+disjoint 0 0 34.7902 -20.1838 29.4198 -20.1417 1
+disjoint 0.5 pic/material/steelstick.png
+NONE
+disjoint 0 0 33.8662 -24.0566 29.9918 -23.4311 1
+disjoint 0.5 pic/material/steelstick.png
+NONE
+disjoint 0 0 34.1406 -27.3402 29.9656 -27.0125 1
+disjoint 0.5 pic/material/steelstick.png
+NONE
+disjoint 0 0 35.3472 -25.2599 30.5733 -25.2269 1
+disjoint 0.5 pic/material/steelstick.png
+NONE
+disjoint 0 0 34.1245 -29.1309 30.8424 -29.1079 1
+disjoint 0.5 pic/material/steelstick.png
+NONE
+balancer -123.337 -6.75293 2 2 NONE
+balancer 27.521 -7.5997 2 2 NONE
+disjoint 0 0 28.0206 -6.41168 22.3429 -7.56324 1
+disjoint 0.5 pic/material/steelstick.png
+NONE
+disjoint 0 0 22.9002 -12.9382 28.016 -7.00841 1
+disjoint 0.5 pic/material/steelstick.png
+NONE
+disjoint 0 0 24.1634 -3.39931 27.4123 -7.89904 1
+disjoint 0.5 pic/material/steelstick.png
+NONE
+disjoint 0 0 -118.177 -6.85335 -123.248 -6.76603 1
+disjoint 0.5 pic/material/steelstick.png
+NONE
+disjoint 0 0 -124.131 -6.43436 -116.876 -2.11353 1
+disjoint 0.5 pic/material/steelstick.png
+NONE
+disjoint 0 0 -119.174 -11.6184 -124.131 -6.43436 1
+disjoint 0.5 pic/material/steelstick.png
+NONE
+disjoint 0 0 21.3923 -15.0158 26.4079 -22.8103 1
+disjoint 0.5 pic/material/steelstick.png
+NONE
+disjoint 0 0 21.7015 -13.5263 28.1958 -23.1216 1
+disjoint 0.5 pic/material/steelstick.png
+NONE
+disjoint 0 0 23.7767 -15.3319 22.5377 -21.5888 1
+disjoint 0.5 pic/material/steelstick.png
+NONE
+disjoint 0 0 15.3836 -21.8701 19.2513 -22.1619 1
+disjoint 0.5 pic/material/steelstick.png
+NONE
+rocketguard 30.7932 19.3497 2 2 NONE
+rocketguard 9.78704 3.74169 2 2 NONE
+archer 19.9234 -0.0302234 2 2 NONE
+archer 0.736874 9.76808 2 2 NONE
+archer -3.33924 9.76446 2 2 NONE
+archer 5.44013 9.77232 2 2 NONE
+archer 13.8188 3.62133 2 2 NONE
+disjoint 0 0 5.4385 10.1634 5.49531 15.8321 1
+disjoint 0.5 pic/material/steelstick.png
+NONE
+disjoint 0 0 1.26503 10.7593 1.91593 15.8251 1
+disjoint 0.5 pic/material/steelstick.png
+NONE
+disjoint 0 0 -2.9374 10.1598 -2.55987 14.9282 1
+disjoint 0.5 pic/material/steelstick.png
+NONE
+disjoint 0 0 30.2606 14.3339 31.6922 20.6138 1
+disjoint 0.5 pic/material/steelstick.png
+NONE
+disjoint 0 0 10.5431 -2.09776 10.6061 2.37737 1
+disjoint 0.5 pic/material/steelstick.png
+NONE
+disjoint 0 0 14.4138 0.00621772 14.1434 4.78182 1
+disjoint 0.5 pic/material/steelstick.png
+NONE
+disjoint 0 0 20.685 0.606121 15.9107 -1.18299 1
+disjoint 0.5 pic/material/steelstick.png
+NONE
+rengine -115.649 3.1998 2 2 NONE
+rengine -82.5809 15.4358 2 2 NONE
+rengine -77.1541 15.4325 2 2 NONE
+rengine -87.1389 15.4339 2 2 NONE
+disjoint 0 0 -111.161 3.40099 -116.238 3.59386 1
+disjoint 0.5 pic/material/steelstick.png
+NONE
+disjoint 0 0 -87.002 10.1702 -86.941 15.5405 1
+disjoint 0.5 pic/material/steelstick.png
+NONE
+disjoint 0 0 -82.5266 9.87073 -82.281 14.9459 1
+disjoint 0.5 pic/material/steelstick.png
+NONE
+disjoint 0 0 -78.9469 9.86993 -78.9444 15.2407 1
+disjoint 0.5 pic/material/steelstick.png
+NONE
+disjoint 0 0 -65.8157 15.5349 -76.2586 15.8366 1
+disjoint 0.5 pic/material/steelstick.png
+NONE
+rengine 27.5337 -16.5182 2 2 NONE
+rengine 27.633 -12.4931 2 2 NONE
+disjoint 0 0 27.1678 -11.9168 22.0954 -11.9147 1
+disjoint 0.5 pic/material/steelstick.png
+NONE
+disjoint 0 0 27.4546 -20.5708 27.453 -14.0068 1
+disjoint 0.5 pic/material/steelstick.png
+NONE
+disjoint 0 0 18.5097 -15.4914 27.756 -16.7093 1
+disjoint 0.5 pic/material/steelstick.png
+NONE
+disjoint 0 0 28.3545 -12.8197 20.8984 -12.8097 1
+disjoint 0.5 pic/material/steelstick.png
+NONE
+main -71.3245 15.4328 2 2 NONE
+disjoint 0 0 -72.8057 9.25772 -72.8054 15.2252 1
+disjoint 0.5 pic/material/steelstick.png
+NONE
+disjoint 0 0 -66.2395 16.4192 -71.3118 16.1209 1
+disjoint 0.5 pic/material/steelstick.png
+NONE

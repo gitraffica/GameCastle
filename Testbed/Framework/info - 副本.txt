@@ -1,0 +1,39 @@
+static 0 20 80 80 0 pic/sky.bmp
+box 0 -2 20 2 0 3.0 0.3 1 65535
+breakable 20000 300 pic/ground.bmp end 
+car 0 13 3 5.2 12.5 0.25 1.0 2.5 1.6 8 1
+front breakable 3000 100 pic/ground.bmp end
+tail breakable 2000 150 pic/ground.bmp end
+back breakable 3000 70 pic/rj.bmp end
+wheell breakable 2000 400 pic/rj.bmp end
+wheelr breakable 2000 400 pic/rj.bmp end
+
+human -2 23 1 1.5 3 0.6 3.6 0.6 3.6 2
+head breakable 2000 100 pic/rj3.bmp pic/rj2.bmp pic/rj.bmp end
+body breakable 3000 200 pic/rj3.bmp pic/rj2.bmp pic/rj.bmp end
+arml1 breakable 2000 200 pic/rj3.bmp pic/rj2.bmp pic/rj.bmp end
+arml2 breakable 2000 200 pic/rj3.bmp pic/rj2.bmp pic/rj.bmp end
+armr1 breakable 2000 200 pic/rj3.bmp pic/rj2.bmp pic/rj.bmp end
+armr2 breakable 2000 200 pic/rj3.bmp pic/rj2.bmp pic/rj.bmp end
+legl1 breakable 2000 200 pic/ground.bmp end
+legl2 breakable 2000 200 pic/ground.bmp end
+legr1 breakable 2000 200 pic/ground.bmp end
+legr2 breakable 2000 200 pic/ground.bmp end
+
+human 6 23 1 1.5 3 0.6 3.6 0.6 3.6 2
+head breakable 2000 100 pic/rj3.bmp pic/rj2.bmp pic/rj.bmp end
+body breakable 3000 200 pic/rj3.bmp pic/rj2.bmp pic/rj.bmp end
+arml1 breakable 2000 200 pic/rj3.bmp pic/rj2.bmp pic/rj.bmp end
+arml2 breakable 2000 200 pic/rj3.bmp pic/rj2.bmp pic/rj.bmp end
+armr1 breakable 2000 200 pic/rj3.bmp pic/rj2.bmp pic/rj.bmp end
+armr2 breakable 2000 200 pic/rj3.bmp pic/rj2.bmp pic/rj.bmp end
+legl1 breakable 2000 200 pic/ground.bmp end
+legl2 breakable 2000 200 pic/ground.bmp end
+legr1 breakable 2000 200 pic/ground.bmp end
+legr2 breakable 2000 200 pic/ground.bmp end
+
+disjoint 1 9 0 0 12 9 0 disjoint 1 pic/ground.bmp
+
+polygon 3.0 0.3 0.2 1 65535 4 -3 10 3 10 0 15 -20 15 breakable 5000 100 pic/ground.bmp end
+
+circle 0 20 2 3 0.3 0.3 1 65535 breakable 3000 100 pic/rj3.bmp pic/rj2.bmp pic/rj.bmp end
